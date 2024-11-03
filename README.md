@@ -2,7 +2,7 @@
 This Project is built on UIKit and Combine written in Swift, no any other third party libraries or frameworks are imported
 
 ## Getting Started
-In order to run this project, simply download this project, then build and run.
+In order to run this project, simply download this project on develop branch, then build and run.
 
 ### Scope of this Project
 
