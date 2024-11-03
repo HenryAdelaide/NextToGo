@@ -37,6 +37,13 @@
 			);
 			target = 0E4063422CD21819003E8B45 /* NextToGo */;
 		};
+		0E4063E52CD75064003E8B45 /* Exceptions for "NextToGo" folder in "NextToGoUITests" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				General/AccesibilityManager.swift,
+			);
+			target = 0E4063622CD2181C003E8B45 /* NextToGoUITests */;
+		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +51,7 @@
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 				0E40636B2CD2181C003E8B45 /* Exceptions for "NextToGo" folder in "NextToGo" target */,
+				0E4063E52CD75064003E8B45 /* Exceptions for "NextToGo" folder in "NextToGoUITests" target */,
 			);
 			path = NextToGo;
 			sourceTree = "<group>";
